@@ -20,7 +20,7 @@ public class userInputInteractions
         {
             try
             {
-                System.out.print("How many players will be playing (3-10): ");
+                System.out.print("How many players will be playing (2-10): ");
                 playerCount = scanner.nextInt();
                 validUserInput = false;
             }
@@ -30,7 +30,7 @@ public class userInputInteractions
                 scanner.next();
                 continue;
             }
-            if (playerCount < 3 || playerCount > 10)
+            if (playerCount < 2 || playerCount > 10)
             {
                 System.out.println("Input is not between 3 and 10");
             }
