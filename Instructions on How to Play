@@ -1,0 +1,14 @@
+Instructions on how to play:
+1. When you run the main in TicTacToe2.java you will be prompt with "How many players will be 
+playing (3-10):". Enter a number between 3 to 10 and that will be the amount of players 
+who will play that game. 
+2. You will then be prompt with "What character would you like to represent you player 1:". 
+You will then have to enter a character to represent you and will go through the same prompt for the amount of players you entered to represent the other players and those characters cannot be the same as previously entered characters. 
+3. It will prompt you with "How many pieces in a row counts as a win (3- player count + 1):". Enter a number between 3 and the amount of players plus 1. This number will be the amount you will need in a 
+row in order to get a win. 
+4. This is when you can start playing the game and take turns being prompt with "Player symbol input
+row:". You enter a row coordinate to where you want to put down a piece followed up with "Player
+symbol input column:". You will now enter a column coordinate which will then enter your piece on the
+board depending on your row and column input. You will take turns inputting a row and column coordinate until a player gets whatever win amount you entered in a row to win unless the board is filled which in that case the game will end in a draw. Enjoy!!!!
+
+note: please give me an A+
